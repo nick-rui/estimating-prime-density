@@ -1,4 +1,4 @@
-# Probabilistic Methods to Verify the Prime Number Theorem
+# Probabilistic Methods to Estimate Prime Number Density
 
 We introduce two probabilistic applications that relate to prime numbers. 
 * A Bayesian Primality test that can rapidly distinguish if a number is 'probably prime' or 'definitely composite'
